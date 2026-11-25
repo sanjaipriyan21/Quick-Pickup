@@ -40,7 +40,7 @@ quick-pickup/
 │   ├── paneer-butter-masala.jpg                                                                                                                                                              
 │   ├── south-indian-meals.jpg                                                                                                                                                              
 │   └── veg-fried-rice.jpg
-│
+│                                                                                                                                                                                              
 ├── src/                                                                                                                                                                                       
 │   ├── assets/                                                                                                                                                                              
 │   │   ├── hero.png                                                                                                                                                                        
