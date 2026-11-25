@@ -1,16 +1,85 @@
-# React + Vite
+🍔 Quick Pickup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 About the Project
 
-Currently, two official plugins are available:
+Quick Pickup is a food ordering platform designed to make food ordering easier and provide a simple interface for managing hotel operations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 Features
 
-## React Compiler
+- Food menu with images
+- Hotel Owner Dashboard
+- Menu Management Interface
+- Order Management Screens
+- User-friendly interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- Vite
+- HTML
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Development Tools
+
+- Visual Studio Code
+- GitHub
+
+📁 Project Structure
+
+quick-pickup/
+│
+├── public/
+│   ├── butter-naan.jpg
+│   ├── chicken-65.jpg
+│   ├── chicken-biryani.jpg
+│   ├── favicon.svg
+│   ├── icons.svg
+│   ├── gulab-jamun.jpg
+│   ├── masala-dosa.jpg
+│   ├── paneer-butter-masala.jpg
+│   ├── south-indian-meals.jpg
+│   └── veg-fried-rice.jpg
+│
+├── src/
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   └── vite.svg
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+
+🎨 Design
+
+- Orange and White Colour Theme
+- Clean and simple user interface
+- Food images for menu presentation
+
+👨‍💻 My Contribution
+
+Frontend Development – Hotel Owner Module
+
+My responsibilities include:
+
+1. Building the Hotel Owner Dashboard
+2. Designing the Menu Management Interface
+3. Developing the Order Management Screens
+
+👥 Project Type
+
+Team Project
+
+📌 Project Status
+
+Frontend Development
