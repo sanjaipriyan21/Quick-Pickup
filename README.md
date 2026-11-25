@@ -27,37 +27,37 @@ Quick Pickup is a food ordering platform designed to make food ordering easier a
 
 📁 Project Structure
 
-quick-pickup/
-│
-├── public/
-│   ├── butter-naan.jpg
-│   ├── chicken-65.jpg
-│   ├── chicken-biryani.jpg
-│   ├── favicon.svg
-│   ├── icons.svg
-│   ├── gulab-jamun.jpg
-│   ├── masala-dosa.jpg
-│   ├── paneer-butter-masala.jpg
-│   ├── south-indian-meals.jpg
+quick-pickup/                                                                                                                                                                               
+│                                                                                                                                                                                           
+├── public/                                                                                                                                                                                 
+│   ├── butter-naan.jpg                                                                                                                                                                                
+│   ├── chicken-65.jpg                                                                                                                                                                      
+│   ├── chicken-biryani.jpg                                                                                                                                                                 
+│   ├── favicon.svg                                                                                                                                                                         
+│   ├── icons.svg                                                                                                                                                                           
+│   ├── gulab-jamun.jpg                                                                                                                                                                     
+│   ├── masala-dosa.jpg                                                                                                                                                                             
+│   ├── paneer-butter-masala.jpg                                                                                                                                                              
+│   ├── south-indian-meals.jpg                                                                                                                                                              
 │   └── veg-fried-rice.jpg
 │
-├── src/
-│   ├── assets/
-│   │   ├── hero.png
-│   │   ├── react.svg
-│   │   └── vite.svg
+├── src/                                                                                                                                                                                       
+│   ├── assets/                                                                                                                                                                              
+│   │   ├── hero.png                                                                                                                                                                        
+│   │   ├── react.svg                                                                                                                                                                        
+│   │   └── vite.svg                                                                                                                                                                        
 │   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
+│   ├── App.jsx                                                                                                                                                                              
+│   ├── App.css                                                                                                                                                                                
+│   ├── index.css                                                                                                                                                                            
+│   └── main.jsx                                                                                                                                                                            
 │
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── README.md
+├── .gitignore                                                                                                                                                                              
+├── eslint.config.js                                                                                                                                                                        
+├── index.html                                                                                                                                                                              
+├── package.json                                                                                                                                                                            
+├── package-lock.json                                                                                                                                                                        
+├── README.md                                                                                                                                                                                
 └── vite.config.js
 
 🎨 Design
